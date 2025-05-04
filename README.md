@@ -38,3 +38,6 @@ print("Hello, World!")
 > —— 露易丝·格丽克
 
 [![pEq9q2V.png](https://s21.ax1x.com/2025/05/04/pEq9q2V.png)](https://imgse.com/i/pEq9q2V)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FurryAria)](https://github.com/anuraghazra/github-readme-stats)
