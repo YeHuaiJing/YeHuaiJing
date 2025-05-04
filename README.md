@@ -24,7 +24,7 @@ print("Hello, World!")
 我的兽设原型：龙
 
 ## 🌈 社区贡献
-[![FurryAria's Contribution Graph](https://ghchart.rshah.org/FurryAria)](https://github.com/FurryAria)
+![FurryAria's Contribution Graph](https://ghchart.rshah.org/FurryAria)
 
 ## 📫 联系我
 [![Email](https://img.shields.io/badge/Email-D14836?logoColor=white)](mailto:furtime@163.com)
