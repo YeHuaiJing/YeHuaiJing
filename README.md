@@ -9,7 +9,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ## 📌 Featured Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurryAria&repo=REPO_NAME&theme=radical&show_owner=true)](https://github.com/FurryAria/REPO_NAME)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurryAria&repo=Community-Creation&theme=radical&show_owner=true)](https://github.com/FurryAria/REPO_NAME)
 
 ## 🦊 Tech Fusion
 ### PHP + Frontend Integration
@@ -17,3 +17,4 @@
 function greetUser() {
   echo "<script>alert('Welcome!');</script>";
 }
+```
