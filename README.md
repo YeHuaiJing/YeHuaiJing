@@ -25,7 +25,7 @@ print("Hello, World!")
 ## 🎨 兽设
 ![Fursona](https://s21.ax1x.com/2025/05/04/pEqp4t1.png)  
 我的兽设原型：龙
->愚蠢的人呐年少无知说蠢话渺小的蚂蚁怎能会写大象的大
+>"愚蠢的人呐，年少无知说蠢话，渺小的蚂蚁，怎能会写大象的大。"
 
 ## 🌈 社区贡献
 ![FurryAria's Contribution Graph](https://ghchart.rshah.org/FurryAria)
@@ -42,5 +42,5 @@ print("Hello, World!")
 > —— 露易丝·格丽克
 
 [![pEq9q2V.png](https://s21.ax1x.com/2025/05/04/pEq9q2V.png)](https://imgse.com/i/pEq9q2V)
-
+你是第![](https://w.saobby.com/w/y9nm0ban)个来到我的主页的www
 
