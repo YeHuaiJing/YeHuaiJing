@@ -1,7 +1,8 @@
 # Aria的个人介绍
 
 ## 🌟 About Me
-开发者 & 开源爱好者 | 兽迷| 喜欢用代码创造有趣的事物  
+### 你好，我叫叶淮璟（Aria）
+开发者 & 开源爱好者 | 兽迷 | 喜欢用代码创造有趣的事物  
 > "观看和感受正在经历的事物本相，而不是其名称。" ---艾伦·瓦兹
 
 ## 🛠️ 技术栈
@@ -11,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ## 📊 GitHub Stats
-[![FurryAria's GitHub stats](https://github-readme-stats.vercel.app/api?username=FurryAria&show_icons=true&theme=radical)](https://github.com/FurryAria/github-readme-stats)
+![Aria's GitHub stats](https://github-readme-stats.vercel.app/api?username=FurryAria)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FurryAria&layout=compact)](https://github.com/FurryAria/github-readme-stats)
 
 ## 不知道🤔
@@ -40,4 +41,3 @@ print("Hello, World!")
 [![pEq9q2V.png](https://s21.ax1x.com/2025/05/04/pEq9q2V.png)](https://imgse.com/i/pEq9q2V)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FurryAria)](https://github.com/anuraghazra/github-readme-stats)
