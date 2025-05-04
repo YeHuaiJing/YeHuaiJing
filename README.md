@@ -25,6 +25,7 @@ print("Hello, World!")
 ## 🎨 兽设
 ![Fursona](https://s21.ax1x.com/2025/05/04/pEqp4t1.png)  
 我的兽设原型：龙
+>愚蠢的人呐年少无知说蠢话渺小的蚂蚁怎能会写大象的大
 
 ## 🌈 社区贡献
 ![FurryAria's Contribution Graph](https://ghchart.rshah.org/FurryAria)
